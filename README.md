@@ -7,6 +7,10 @@
 
 This is TinyAssist. A mini voice assistant project based on an ESP32 and powered by Home Assistant Voice Assist.
 
+**You will need the following:**
+- M5Stack Atom Echo device
+- Terminals 3D model. [You can download from here](https://www.printables.com/model/160473-terminal-for-ssd1306-13-oled-and-wemos-d1-mini-new)
+
 I had an unused M5Stack Atom Echo device, so I decided to build a small voice assistant for my workshop with it. This is not my main assistant, so I don’t really care about the Echo’s weak speaker. But if you want, you can follow the steps in this video to route the audio to another device: 
 
 [YouTUBE video for external speaker](https://www.youtube.com/watch?v=o3yZWD_sFIE&t=390s)
