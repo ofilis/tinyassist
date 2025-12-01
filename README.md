@@ -26,3 +26,6 @@ voice_assistant:
           media_player_entity_id: media_player.your_media_player
           message: !lambda 'return x;'
 ```
+**IMPORTANT NOTE* 
+“Due to the shape of the original terminal’s 3D model, it’s unfortunately not possible to power the Atom Echo with standard Type-C cables. Therefore, you either need to use an external 90-degree slim cable like the one in the link below, or supply power to the device through the pins (which is the method I chose).”
+
